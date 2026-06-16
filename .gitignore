@@ -21,3 +21,5 @@ coverage/
 # Env files
 .env
 .env.*
+
+!downloads/trend-wears-landing-theme.zip
