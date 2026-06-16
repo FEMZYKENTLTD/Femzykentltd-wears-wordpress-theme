@@ -162,6 +162,20 @@ trend-wears-landing/
 - WordPress installed on your server or local environment
 - Admin access to the WordPress dashboard
 
+## 📦 Download Theme ZIP
+
+Installable WordPress theme package:
+
+- [Download `trend-wears-landing-theme.zip`](./downloads/trend-wears-landing-theme.zip)
+
+### How to use
+1. Download the ZIP file
+2. Go to **WordPress Admin → Appearance → Themes**
+3. Click **Add New**
+4. Click **Upload Theme**
+5. Upload `trend-wears-landing-theme.zip`
+6. Activate the theme
+
 ### Installation
 
 1. Upload the theme ZIP in WordPress:
