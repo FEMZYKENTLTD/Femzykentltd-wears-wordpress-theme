@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Archives / exports
+*.zip
+
+# Logs
+*.log
+
+# Editor folders
+.vscode/
+.idea/
+
+# Node / build artifacts if used later
+node_modules/
+dist/
+build/
+coverage/
+
+# Env files
+.env
+.env.*
